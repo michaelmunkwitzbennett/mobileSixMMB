@@ -1,0 +1,15 @@
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/mobileSixMMB.csprojAssemblyReference.cache
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/ActivityThreePage.xaml.g.cs
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/ActivityTwoPage.xaml.g.cs
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/mobileSixMMB.csproj.CoreCompileInputs.cache
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/mobileSixMMB.AssemblyInfoInputs.cache
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/mobileSixMMB.AssemblyInfo.cs
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/mobileSixMMB.dll
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/mobileSixMMB.pdb
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/bin/Debug/netstandard2.0/mobileSixMMB.deps.json
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/bin/Debug/netstandard2.0/mobileSixMMB.dll
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/bin/Debug/netstandard2.0/mobileSixMMB.pdb
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mbennett20/Projects/mobileSixMMB/mobileSixMMB/obj/Debug/netstandard2.0/ActivityOnePage.xaml.g.cs

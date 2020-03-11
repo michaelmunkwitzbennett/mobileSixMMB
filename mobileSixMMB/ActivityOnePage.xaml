@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="mobileSixMMB.ActivityOnePage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="NormalColor">Blue</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" Text="1" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}" />
+            <Label Grid.Column="1" Grid.Row="0" Text="2" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+            <Label Grid.Column="2" Grid.Row="0" Text="3" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+
+            <Label Grid.Column="0" Grid.Row="1" Text="4" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+            <Label Grid.Column="1" Grid.Row="1" Text="5" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+            <Label Grid.Column="2" Grid.Row="1" Text="6" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+
+            <Label Grid.Column="0" Grid.Row="2" Text="7" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+            <Label Grid.Column="1" Grid.Row="2" Text="8" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+            <Label Grid.Column="2" Grid.Row="2" Text="9" FontSize="Large" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" TextColor="{StaticResource NormalColor}"/>
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>
